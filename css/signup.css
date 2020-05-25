@@ -19,20 +19,11 @@ nav ul li a.active,nav ul li a:hover{
 footer{
     background: rgb(175, 38, 20);
 }
-.container{
 
-    margin: -30px 15% 0px 15%;
-    width: 70%;
+.main{
     background: #f1f1f1;
+    margin-top: -30px;
 }
-@media screen and (max-width: 992px) {
-    .container {
-        margin: -30px 5% 0px 5%;
-        width: 90%;
-    }
-    
-  }
-
 
 .box2 input{
     position: relative;
@@ -102,7 +93,7 @@ footer{
     height: 52px;
 }
 
-.container hr{
+.main hr{
     border-color: grey;
 }
 
